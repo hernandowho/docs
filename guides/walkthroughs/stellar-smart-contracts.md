@@ -253,9 +253,9 @@ When it comes to designing a smart contract, parties must come together and clea
 
 ## Resources
 
-- [Jurimetrics - The Next Steps Forward](http://heinonline.org/HOL/LandingPage?handle=hein.journals/mnlr33&div=28&id=&page) - Lee Loevinger 
+- [Jurimetrics - The Next Steps Forward](https://heinonline.org/HOL/LandingPage?handle=hein.journals/juraba44&div=31) - Lee Loevinger 
 - [Formalizing and Securing Relationships on Public Networks](http://firstmonday.org/article/view/548/469) - Nick Szabo 
-- [Smart Contracts: 12 Use Cases for Business and Beyond](https://bloq.com/assets/smart-contracts-white-paper.pdf) - Chamber of Digital Commerce
+- [Smart Contracts: 12 Use Cases for Business and Beyond](https://digitalchamber.org/assets/smart-contracts-12-use-cases-for-business-and-beyond.pdf) - Chamber of Digital Commerce
 - [Concept: Transactions](https://www.stellar.org/developers/guides/concepts/transactions.html) - Stellar<span>.org
 - [Concept: Multisignature](https://www.stellar.org/developers/guides/concepts/multi-sig.html) - Stellar<span>.org
 - [Concept: Time Bounds](https://www.stellar.org/developers/guides/concepts/transactions.html#time-bounds) - Stellar<span>.org
